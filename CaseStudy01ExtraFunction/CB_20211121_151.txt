@@ -1,0 +1,11 @@
+PNR         : CB_20211121_151
+Train No    : 1006
+Train Name  : Brindavan Express
+From        : Chennai
+To          : Bangalore
+Travel Date : 21/11/2021
+
+Passengers  :
+Name	Age	Gender	Fare
+radha	88	f	600
+Total Price: 600.0

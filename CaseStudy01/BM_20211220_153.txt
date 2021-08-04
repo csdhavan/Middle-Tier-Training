@@ -1,0 +1,12 @@
+PNR         : BM_20211220_153
+Train No    : 1003
+Train Name  : Udyan Express
+From        : Bangalore
+To          : Mumbai
+Travel Date : 20/12/2021
+
+Passengers :
+Name	Age	Gender	Fare
+meghana	34	f	1125
+ram	12	m	750
+Total Price: 1875.0

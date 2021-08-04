@@ -1,0 +1,11 @@
+PNR         : BD_20211212_165
+Train No    : 1001
+Train Name  : Shatabdi Express
+From        : Bangalore
+To          : Delhi
+Travel Date : 12/12/2021
+
+Passengers  :
+Name	Age	Gender	Fare
+Sparsh	10	M	1,250.00
+Total Price: 1,250.00

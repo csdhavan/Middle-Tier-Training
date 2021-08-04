@@ -1,0 +1,13 @@
+PNR         : BC_20211211_156
+Train No    : 1005
+Train Name  : Brindavan Express
+From        : Bangalore
+To          : Chennai
+Travel Date : 11/12/2021
+
+Passengers  :
+Name	Age	Gender	Fare
+Adi	12	M	500
+Radha	66	F	600
+Ram	34	M	1000
+Total Price: 2100.0
